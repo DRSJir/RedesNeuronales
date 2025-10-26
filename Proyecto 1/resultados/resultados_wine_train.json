@@ -1,0 +1,3746 @@
+[
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.08026041279145421,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.06576404265400108
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.8557692307692307,
+        "mse entrenamiento": 0.07168078232505169,
+        "exactitud": 0.8461538461538461,
+        "mse": 0.07999130216565331
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.08228330286625651,
+        "exactitud": 0.8461538461538461,
+        "mse": 0.08414796002676192
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.875,
+        "mse entrenamiento": 0.09791337070607023,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.09385498147731987
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12407734164340445,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430062922951055
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12401904260380912,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430466635140139
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12389114108210561,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430669244455123
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12389052271467152,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430655460070517
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12438700781179168,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427588408229087
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12443667544635122,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12426867062524642
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1240725134270441,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429733163201781
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12408082463323951,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430337207591037
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.01401696360742234,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.02718551982452061
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.031980604723553914,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.042522229769503296
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.05691810240043903,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.06482268922320883
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.08838710356834757,
+        "exactitud": 0.8461538461538461,
+        "mse": 0.09392014544594884
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0005962780723407527,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015690969148886832
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0012683686991396975,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015923370755990887
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.002656006417303308,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.016890937675962895
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.007309163523200024,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.021240142876961184
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 9.652588473722962e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.016241954104771562
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00019003941072198136,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01593830530096067
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00035987183779144527,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01574978430597835
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0008176168589674254,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015739856184505765
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12386864434525574,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430686539342782
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.75,
+        "mse entrenamiento": 0.07553601487108429,
+        "exactitud": 0.7307692307692307,
+        "mse": 0.09337949359160089
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.08322466711843475,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.0858876254527013
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.09597671281109625,
+        "exactitud": 0.8461538461538461,
+        "mse": 0.10242361857683784
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12407735205691049,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430064186818927
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12407224080394157,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430264671398081
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12389117233894481,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430674475607889
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12386730525225662,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430640541951678
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12480227615940466,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12426698800425738
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12443667793111539,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242686768439701
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12407251864058298,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429734411651552
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12408083101714719,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430338855320386
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.022347044305678597,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.030527751875205116
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9711538461538461,
+        "mse entrenamiento": 0.06755344961981348,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.07231963763255204
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5576923076923077,
+        "mse entrenamiento": 0.10699260106748763,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.10930830538282442
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1204537434648402,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12162451886574967
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0006345237982461817,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013150008478272576
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0014074957814002329,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012774706422714246
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0031379292304577608,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013257064395184683
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.009871538131048477,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.018567600307469876
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 9.851572326440934e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.014849607965525525
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00019593329909199672,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.014177328250863503
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00037642810685699883,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013576833675398185
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 2,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0008837206207680993,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012940780377404855
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12384993715843405,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1243066849546983
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12383626186209087,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430072610051919
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385321274287082,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427654890658915
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12394095736559332,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427040397421328
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12389956494259803,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430471819671911
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385509083124817,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430477149888484
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12384971449414947,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430677577444213
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12384691578463086,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1243067179169923
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12412326591649142,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427511823894431
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12394295203683078,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429296261267749
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12387113421951959,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430424069552183
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385727399250737,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.124305828767896
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.01457404123841952,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.028113672372979234
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.03683210034269065,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.04844418572761681
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9519230769230769,
+        "mse entrenamiento": 0.06886018151513994,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.07672411528831714
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.7788461538461539,
+        "mse entrenamiento": 0.09600579329828016,
+        "exactitud": 0.6923076923076923,
+        "mse": 0.10051484776209099
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0005579057904770622,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015078942058073
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0012322941223900476,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015281536324097404
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0026354190567689523,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.01609127804000835
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.007385876412550559,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.02063062780709615
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 8.233943389344683e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01529222035802382
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00016947769667161297,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015115324700595999
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00032921607347028266,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01506465597167837
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0007760060920838827,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015131197085952178
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1238555736872181,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430704801311751
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.11504967260833017,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.11588911769242106
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12384861687554652,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427166336415765
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1239398869481425,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12426985188865841
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1239543973606702,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429910645868951
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385508995940638,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430479009386458
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1238492598271262,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1243057995474583
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12384666152626786,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430619516592643
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1241232658966756,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427512044511503
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12394295132243856,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429296486687778
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12387113459653343,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430424877697689
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385727346319578,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430584200808276
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.02115020448974361,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.03011377977059541
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9423076923076923,
+        "mse entrenamiento": 0.06302513272685376,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.06808620257518581
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5673076923076923,
+        "mse entrenamiento": 0.10193940585157103,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.10412837673878432
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.11818857929713583,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.11925058518934518
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0005307690407253214,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01250596309114037
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0012278653418501325,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012129279715037494
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.002824574303419607,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01269749970866382
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.009274194437549874,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.018626561396121143
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 7.595675884624459e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01407866556939429
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00015636260173668964,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013481574929318892
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0003075203570485092,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01291764384306721
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 4,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0007514713356539926,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012294693792036626
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12386648793205965,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430644324756689
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12383989423800852,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430565338480805
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8461538461538461,
+        "mse entrenamiento": 0.06993521529888191,
+        "exactitud": 0.7307692307692307,
+        "mse": 0.09019739091673872
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.08039135439302059,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.06763708390122711
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12400946381676518,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429113170506324
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12392046525718765,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429674923104618
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12386578325894126,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430526866519569
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385464390397924,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430612616374505
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12535464859402995,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.124313541128788
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12438404152240423,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242604382279733
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12396030600208834,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427452854454632
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12390025593014217,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242910892588372
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.01152090711192329,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.021598735783385527
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.02582177412212926,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.0343703783644329
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9711538461538461,
+        "mse entrenamiento": 0.04527418988449522,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.05144027201346488
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.9038461538461539,
+        "mse entrenamiento": 0.07334409356141741,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.077695712680132
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0004903951406818398,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013568520623776078
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0010845845031965272,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013183435563739413
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0022948052382865845,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013422246555170618
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.006116263939623203,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.016260502347543244
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 7.092155609390154e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01515608506586984
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00014701576898914622,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.014538296233633627
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0002879043683665398,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013972847392564509
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0006834627956291105,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013368285241743105
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12387207573373019,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430634120314785
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.875,
+        "mse entrenamiento": 0.07833134527065568,
+        "exactitud": 0.7692307692307693,
+        "mse": 0.09201713272823435
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.0633640650277516,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.0606518324553441
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.08769827738623998,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.07873040394745195
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1241232820985177,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427514006921718
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12392048480363403,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242967827993193
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12387115851376188,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430427480078024
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385464656273104,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430609498639285
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12592804851993428,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12434321980097954
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1245886749095864,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12426103767065524
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12396031585911439,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242745473414136
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12391736759589442,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242845593950545
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.013984164051779695,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.021796893736311353
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.039479990044346595,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.044772360242514436
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9326923076923077,
+        "mse entrenamiento": 0.08294652871363033,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.08531109822578088
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1126027847818753,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.11391604380646148
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00045449719965484815,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012356160226660362
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.001034095694750864,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011745104173317157
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0022868166775240886,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011755295097749426
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.006728751718004989,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.014911665514578263
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 6.503715676650225e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.014207824353162533
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.000134667328486198,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013519419920270864
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00026430479668026184,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012865904074274927
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 8,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0006393932315376459,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012069256541049327
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.11558062578382985,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.11472331977897215
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.07744098233006687,
+        "exactitud": 0.8461538461538461,
+        "mse": 0.07746121067745901
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.875,
+        "mse entrenamiento": 0.08100080190436883,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.07296448901724288
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8942307692307693,
+        "mse entrenamiento": 0.10366526728810455,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.09825043739859642
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12409474743435724,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242945178909469
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12390286679062952,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430007695016022
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12389086279737871,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430543422766847
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12384595946713725,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430577940700524
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12548653488862752,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12439901084869964
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12414236389646412,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12433964791008008
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12413516554421805,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12434627926032048
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385415131687408,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430093253779423
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.008655977098971947,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.016595265404943396
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.017894124242590816,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.024479356819695503
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.031676437145759795,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.036278998025855595
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.055715584540664095,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.05852563502421788
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0003967638019693782,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011826420576789771
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0009043952252350101,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011345420249495135
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0019375746358503984,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011371076291074348
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0049386393972629585,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01336567732757431
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 5.2887032058261045e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013425577049797216
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00011221497419373852,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012808689903710495
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0002270057849593607,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01224503303278625
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0005617509949958696,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011594258532931462
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.8942307692307693,
+        "mse entrenamiento": 0.10904425858467257,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.09932362149465951
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.7980769230769231,
+        "mse entrenamiento": 0.06889204404492963,
+        "exactitud": 0.8461538461538461,
+        "mse": 0.06765370004928693
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.06327200191456159,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.05707432258603426
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.875,
+        "mse entrenamiento": 0.08550158437697063,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.07906319173086417
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12413689384879464,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429548244619094
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12391298109404562,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429984781967006
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12390699590849122,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430478449700941
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12384636005248692,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430577002061677
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12578123769109964,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12442173459971531
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12414242970926856,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12433975200545663
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1241352409172703,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1243463224795527
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12385584983806913,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430240846415856
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00991740629269312,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01738693642152311
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.024252590304276987,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.030239877485021313
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.05401357412481837,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.057253587418332766
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8365384615384616,
+        "mse entrenamiento": 0.09770003631434543,
+        "exactitud": 0.8076923076923077,
+        "mse": 0.09912796047480901
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00037856848459111466,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01172035786776477
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0008628330940544084,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011006834398871162
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0018823268167073633,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.010769443056048723
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0051787989479003494,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012942227259160367
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 5.1511090010939425e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013559448425209534
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00010863269906359183,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012888566625769027
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0002178583489862115,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012244070229466997
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 16,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0005350070244597343,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011402975513799747
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1240255550364459,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430393948999487
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.07708334120879,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.057305228109052836
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.055557298521644594,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.054888268980279695
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8942307692307693,
+        "mse entrenamiento": 0.06744518713146698,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.05555726406094938
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12549292877653728,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12435346342008977
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12432215576214857,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429806533853414
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12417522709887756,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12431935727062834
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.123843106176904,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429792135682576
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.13171906901131733,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1250047787064859
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1256015294582574,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427016095010893
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12598516016958178,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12461675711332466
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12386791914905111,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12431941319322466
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0078109061748665165,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01433339823062212
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.015550676770823085,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.02071016002233239
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.025843551666010097,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.02927158839963266
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.04449149041721069,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.04558700322059802
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0003730874780221132,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011716219417029002
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0008604034791270191,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.010935405793701641
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0018203591381300587,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.010555018393327798
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.004554809099928475,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.0117617060168028
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 4.9587735202467134e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01371757853543826
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00010627236333525193,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012997273766610803
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00021339696592678558,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012288054895269296
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0005278842870964382,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011370477185668358
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.0936537751633849,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.051394415519331785
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.07696141919844837,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.05677954847971505
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.05361174940008029,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.04716361420994926
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.06503617970925278,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.0579255245777542
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12537965343263832,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1243483314219241
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12432218704997333,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429818285176925
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1241522032309767,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12431699980466351
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.11874004412596842,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12020706478261521
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.13171906534375147,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12500477903323992
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12550285691343746,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12426039831621047
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12581567624374512,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12458783590419914
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12386979961484795,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12432239558654809
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.008908379236014622,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015909847248048573
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.019768954224159446,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.025531354578047696
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.03830404012403036,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.041890028733255986
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.9519230769230769,
+        "mse entrenamiento": 0.07633788417037118,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.07761827764386581
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0003653567925454953,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01170910723228971
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0008487993922508254,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01087964225861686
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.001830291335874648,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01048454415050691
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.004862346254756753,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012215737258996356
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 4.835608167103235e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013703199298054209
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00010371230467595542,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01299807507850325
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00020858115278794083,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012293556730473247
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 32,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0005179136583224372,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011347122247931708
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12423375892423505,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430445561761648
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.8942307692307693,
+        "mse entrenamiento": 0.06677678432885238,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.05873819731660833
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.04381051969186452,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.0385379037858645
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8653846153846154,
+        "mse entrenamiento": 0.056135813110818125,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.05410535238110217
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12877851462768666,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12441500704829943
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12464845640420641,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429398370988708
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1242257719228445,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427711029958746
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12402886335400773,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427465066082105
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.16401073590842932,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1407849443095437
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.13310752850546057,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.13054158269160257
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.13866866191903934,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12915190042226163
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.4519230769230769,
+        "mse entrenamiento": 0.1305070138177521,
+        "exactitud": 0.46153846153846156,
+        "mse": 0.12967798338963485
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.006425259436483554,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.015353316733976342
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.012541207137931868,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.021488137386588446
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.02040111910660629,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.0286108504196637
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.034047358950714396,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.0403649194259615
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0003355147696453857,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012516692028964469
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.000759834887313933,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011838326406190376
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.001582304893546999,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011514874999902844
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0038289841123071568,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012757045461527299
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 4.437665014218673e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.014168262394766103
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 9.530391930704614e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013538088707534026
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00019257432115962175,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012964312115691849
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "xavier",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00047280261277162113,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012223377660998184
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12423372732664079,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12430423516036491
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.8846153846153846,
+        "mse entrenamiento": 0.06738414765566439,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.05878735541361014
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.8942307692307693,
+        "mse entrenamiento": 0.04263380557381858,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.030719313303718996
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.8557692307692307,
+        "mse entrenamiento": 0.05373674553635105,
+        "exactitud": 0.8846153846153846,
+        "mse": 0.05541205290222755
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12877855342707153,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12441512340363435
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12464849133174402,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12429412334829763
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12421557418905378,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12427039240760854
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.12402493839256208,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.1242746961613084
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.1640107523041247,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.14078495637815885
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.13298885679960537,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.13058063454969032
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.5480769230769231,
+        "mse entrenamiento": 0.13866883071594646,
+        "exactitud": 0.5384615384615384,
+        "mse": 0.12915213937990885
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": false,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.4519230769230769,
+        "mse entrenamiento": 0.1292212704281233,
+        "exactitud": 0.46153846153846156,
+        "mse": 0.12862487358904573
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.006911644648209842,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01562518534752666
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.013856707662846218,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.022410590192035635
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 0.9903846153846154,
+        "mse entrenamiento": 0.023102537109431623,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.030617579692506065
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.01,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 0.9807692307692307,
+        "mse entrenamiento": 0.04003599147840743,
+        "exactitud": 0.9230769230769231,
+        "mse": 0.045374841091863065
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0003380499371206047,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012431517552310934
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0007721399328086765,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.011712876348508077
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.0016284283115877434,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01136160588496993
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.1,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.004035599802575742,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012738507123384112
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 8
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 4.432996750951661e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.014150340131459941
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 16
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 9.537324260454764e-05,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.013496205559876257
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 32
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00019330371322183,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.01289985490088414
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 128,
+            "inicializacion": "normal",
+            "normalizacion_datos": true,
+            "learning_rate": 0.5,
+            "batch_size": 64
+        },
+        "exactitud entrenamiento": 1.0,
+        "mse entrenamiento": 0.00047782030174796256,
+        "exactitud": 0.9615384615384616,
+        "mse": 0.012122985402905214
+    }
+]
