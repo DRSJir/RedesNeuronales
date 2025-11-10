@@ -1,0 +1,1802 @@
+[
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.77,
+        "mse": 0.09300121757648575,
+        "precision": 0.7488372093023256,
+        "recall": 0.7252252252252253,
+        "f1_score": 0.7368421052631579
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.708,
+        "mse": 0.11420358986536931,
+        "precision": 0.6439232409381663,
+        "recall": 0.7072599531615925,
+        "f1_score": 0.6741071428571429
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.744,
+        "mse": 0.0887749952385141,
+        "precision": 0.7447916666666666,
+        "recall": 0.6441441441441441,
+        "f1_score": 0.6908212560386473
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.727,
+        "mse": 0.092980900306299,
+        "precision": 0.6905940594059405,
+        "recall": 0.6533957845433255,
+        "f1_score": 0.6714801444043321
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.772,
+        "mse": 0.08291445333681131,
+        "precision": 0.7477064220183486,
+        "recall": 0.7342342342342343,
+        "f1_score": 0.740909090909091
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.732,
+        "mse": 0.09623866573984642,
+        "precision": 0.6810933940774487,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6905311778290993
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.772,
+        "mse": 0.08654955518087123,
+        "precision": 0.7454545454545455,
+        "recall": 0.7387387387387387,
+        "f1_score": 0.7420814479638009
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.726,
+        "mse": 0.10356077186634295,
+        "precision": 0.6666666666666666,
+        "recall": 0.7166276346604216,
+        "f1_score": 0.690744920993228
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.762,
+        "mse": 0.09826530636230572,
+        "precision": 0.7440758293838863,
+        "recall": 0.7072072072072072,
+        "f1_score": 0.7251732101616628
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.7,
+        "mse": 0.12091938848240909,
+        "precision": 0.6377440347071583,
+        "recall": 0.6885245901639344,
+        "f1_score": 0.6621621621621622
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.742,
+        "mse": 0.10313383231489885,
+        "precision": 0.7104072398190046,
+        "recall": 0.7072072072072072,
+        "f1_score": 0.708803611738149
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.699,
+        "mse": 0.1273521659443733,
+        "precision": 0.6340425531914894,
+        "recall": 0.6978922716627635,
+        "f1_score": 0.6644370122630993
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.738,
+        "mse": 0.10662097768663908,
+        "precision": 0.7077625570776256,
+        "recall": 0.6981981981981982,
+        "f1_score": 0.7029478458049887
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.694,
+        "mse": 0.12934344379586377,
+        "precision": 0.6268343815513627,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.661504424778761
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.76,
+        "mse": 0.09318079181575688,
+        "precision": 0.7428571428571429,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7222222222222222
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.705,
+        "mse": 0.11406487067269769,
+        "precision": 0.6404255319148936,
+        "recall": 0.7049180327868853,
+        "f1_score": 0.6711259754738016
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.748,
+        "mse": 0.10029636904492917,
+        "precision": 0.7222222222222222,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7123287671232876
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.701,
+        "mse": 0.12327790690444967,
+        "precision": 0.6373390557939914,
+        "recall": 0.6955503512880562,
+        "f1_score": 0.6651735722284434
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.738,
+        "mse": 0.10411258107667055,
+        "precision": 0.7096774193548387,
+        "recall": 0.6936936936936937,
+        "f1_score": 0.7015945330296127
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.698,
+        "mse": 0.12640579677277472,
+        "precision": 0.6321353065539113,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6644444444444444
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.752,
+        "mse": 0.08744218108937601,
+        "precision": 0.7401960784313726,
+        "recall": 0.6801801801801802,
+        "f1_score": 0.7089201877934272
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.73,
+        "mse": 0.10356020454679774,
+        "precision": 0.6673773987206824,
+        "recall": 0.7330210772833724,
+        "f1_score": 0.6986607142857143
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.76,
+        "mse": 0.09602772292304476,
+        "precision": 0.7361111111111112,
+        "recall": 0.7162162162162162,
+        "f1_score": 0.726027397260274
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.709,
+        "mse": 0.11778745205883903,
+        "precision": 0.6478260869565218,
+        "recall": 0.6978922716627635,
+        "f1_score": 0.6719278466741826
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.752,
+        "mse": 0.09916004077754277,
+        "precision": 0.7289719626168224,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7155963302752294
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.699,
+        "mse": 0.12296763407524937,
+        "precision": 0.6334745762711864,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6651835372636262
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.682,
+        "mse": 0.10654246307816004,
+        "precision": 0.7142857142857143,
+        "recall": 0.47297297297297297,
+        "f1_score": 0.5691056910569106
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.7,
+        "mse": 0.09997286445318619,
+        "precision": 0.6906906906906907,
+        "recall": 0.5386416861826698,
+        "f1_score": 0.6052631578947368
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.756,
+        "mse": 0.08600754059753457,
+        "precision": 0.7450980392156863,
+        "recall": 0.6846846846846847,
+        "f1_score": 0.7136150234741784
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.722,
+        "mse": 0.09220435166870303,
+        "precision": 0.6839506172839506,
+        "recall": 0.6487119437939111,
+        "f1_score": 0.6658653846153846
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.772,
+        "mse": 0.08221320043081191,
+        "precision": 0.7523364485981309,
+        "recall": 0.7252252252252253,
+        "f1_score": 0.7385321100917431
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.724,
+        "mse": 0.09360104819456691,
+        "precision": 0.668903803131991,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6842105263157895
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.648,
+        "mse": 0.11585876161902023,
+        "precision": 0.8194444444444444,
+        "recall": 0.26576576576576577,
+        "f1_score": 0.4013605442176871
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.668,
+        "mse": 0.10832377214774383,
+        "precision": 0.6970954356846473,
+        "recall": 0.39344262295081966,
+        "f1_score": 0.5029940119760479
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.702,
+        "mse": 0.09870741828709753,
+        "precision": 0.7109826589595376,
+        "recall": 0.5540540540540541,
+        "f1_score": 0.6227848101265823
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.715,
+        "mse": 0.09626279902634675,
+        "precision": 0.6961325966850829,
+        "recall": 0.5901639344262295,
+        "f1_score": 0.6387832699619772
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.74,
+        "mse": 0.08877292056517476,
+        "precision": 0.7371134020618557,
+        "recall": 0.6441441441441441,
+        "f1_score": 0.6875
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.727,
+        "mse": 0.09289169426944396,
+        "precision": 0.6915422885572139,
+        "recall": 0.6510538641686182,
+        "f1_score": 0.6706875753920386
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.566,
+        "mse": 0.11987808671264404,
+        "precision": 1.0,
+        "recall": 0.02252252252252252,
+        "f1_score": 0.04405286343612335
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.598,
+        "mse": 0.11622310984064627,
+        "precision": 0.711864406779661,
+        "recall": 0.09836065573770492,
+        "f1_score": 0.1728395061728395
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.66,
+        "mse": 0.11109155867386966,
+        "precision": 0.7063492063492064,
+        "recall": 0.4009009009009009,
+        "f1_score": 0.5114942528735632
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.688,
+        "mse": 0.10294307738275306,
+        "precision": 0.6910299003322259,
+        "recall": 0.48711943793911006,
+        "f1_score": 0.5714285714285714
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.696,
+        "mse": 0.10211946352257706,
+        "precision": 0.7160493827160493,
+        "recall": 0.5225225225225225,
+        "f1_score": 0.6041666666666666
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.706,
+        "mse": 0.09788873304002733,
+        "precision": 0.6894586894586895,
+        "recall": 0.5667447306791569,
+        "f1_score": 0.622107969151671
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.764,
+        "mse": 0.08532026087383829,
+        "precision": 0.7524271844660194,
+        "recall": 0.6981981981981982,
+        "f1_score": 0.7242990654205608
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.725,
+        "mse": 0.10050140961163076,
+        "precision": 0.6652173913043479,
+        "recall": 0.7166276346604216,
+        "f1_score": 0.6899661781285231
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.758,
+        "mse": 0.094847392876188,
+        "precision": 0.7393364928909952,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7205542725173211
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.713,
+        "mse": 0.1155506507729601,
+        "precision": 0.6548672566371682,
+        "recall": 0.6932084309133489,
+        "f1_score": 0.6734926052332195
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.75,
+        "mse": 0.09798117652921567,
+        "precision": 0.7255813953488373,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7139588100686499
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.703,
+        "mse": 0.1208598138274009,
+        "precision": 0.6377118644067796,
+        "recall": 0.7049180327868853,
+        "f1_score": 0.6696329254727474
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.768,
+        "mse": 0.08242206636357294,
+        "precision": 0.75,
+        "recall": 0.7162162162162162,
+        "f1_score": 0.7327188940092166
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.724,
+        "mse": 0.09374433829243659,
+        "precision": 0.6674057649667405,
+        "recall": 0.7049180327868853,
+        "f1_score": 0.6856492027334852
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.772,
+        "mse": 0.08802822089104104,
+        "precision": 0.75,
+        "recall": 0.7297297297297297,
+        "f1_score": 0.7397260273972602
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.729,
+        "mse": 0.10541496049355674,
+        "precision": 0.6748878923766816,
+        "recall": 0.7049180327868853,
+        "f1_score": 0.6895761741122566
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.77,
+        "mse": 0.09300121757648575,
+        "precision": 0.7488372093023256,
+        "recall": 0.7252252252252253,
+        "f1_score": 0.7368421052631579
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.708,
+        "mse": 0.11420358986536931,
+        "precision": 0.6439232409381663,
+        "recall": 0.7072599531615925,
+        "f1_score": 0.6741071428571429
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.744,
+        "mse": 0.0887749952385141,
+        "precision": 0.7447916666666666,
+        "recall": 0.6441441441441441,
+        "f1_score": 0.6908212560386473
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.727,
+        "mse": 0.092980900306299,
+        "precision": 0.6905940594059405,
+        "recall": 0.6533957845433255,
+        "f1_score": 0.6714801444043321
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.772,
+        "mse": 0.08291445333681131,
+        "precision": 0.7477064220183486,
+        "recall": 0.7342342342342343,
+        "f1_score": 0.740909090909091
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.732,
+        "mse": 0.09623866573984642,
+        "precision": 0.6810933940774487,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6905311778290993
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.772,
+        "mse": 0.08654955518087123,
+        "precision": 0.7454545454545455,
+        "recall": 0.7387387387387387,
+        "f1_score": 0.7420814479638009
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.1,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.726,
+        "mse": 0.10356077186634295,
+        "precision": 0.6666666666666666,
+        "recall": 0.7166276346604216,
+        "f1_score": 0.690744920993228
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.762,
+        "mse": 0.09826530636230572,
+        "precision": 0.7440758293838863,
+        "recall": 0.7072072072072072,
+        "f1_score": 0.7251732101616628
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.7,
+        "mse": 0.12091938848240909,
+        "precision": 0.6377440347071583,
+        "recall": 0.6885245901639344,
+        "f1_score": 0.6621621621621622
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.742,
+        "mse": 0.10313383231489885,
+        "precision": 0.7104072398190046,
+        "recall": 0.7072072072072072,
+        "f1_score": 0.708803611738149
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.699,
+        "mse": 0.1273521659443733,
+        "precision": 0.6340425531914894,
+        "recall": 0.6978922716627635,
+        "f1_score": 0.6644370122630993
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.738,
+        "mse": 0.10662097768663908,
+        "precision": 0.7077625570776256,
+        "recall": 0.6981981981981982,
+        "f1_score": 0.7029478458049887
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.694,
+        "mse": 0.12934344379586377,
+        "precision": 0.6268343815513627,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.661504424778761
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.76,
+        "mse": 0.09318079181575688,
+        "precision": 0.7428571428571429,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7222222222222222
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.705,
+        "mse": 0.11406487067269769,
+        "precision": 0.6404255319148936,
+        "recall": 0.7049180327868853,
+        "f1_score": 0.6711259754738016
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.748,
+        "mse": 0.10029636904492917,
+        "precision": 0.7222222222222222,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7123287671232876
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.701,
+        "mse": 0.12327790690444967,
+        "precision": 0.6373390557939914,
+        "recall": 0.6955503512880562,
+        "f1_score": 0.6651735722284434
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.738,
+        "mse": 0.10411258107667055,
+        "precision": 0.7096774193548387,
+        "recall": 0.6936936936936937,
+        "f1_score": 0.7015945330296127
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.698,
+        "mse": 0.12640579677277472,
+        "precision": 0.6321353065539113,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6644444444444444
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.752,
+        "mse": 0.08744218108937601,
+        "precision": 0.7401960784313726,
+        "recall": 0.6801801801801802,
+        "f1_score": 0.7089201877934272
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.73,
+        "mse": 0.10356020454679774,
+        "precision": 0.6673773987206824,
+        "recall": 0.7330210772833724,
+        "f1_score": 0.6986607142857143
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.76,
+        "mse": 0.09602772292304476,
+        "precision": 0.7361111111111112,
+        "recall": 0.7162162162162162,
+        "f1_score": 0.726027397260274
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.709,
+        "mse": 0.11778745205883903,
+        "precision": 0.6478260869565218,
+        "recall": 0.6978922716627635,
+        "f1_score": 0.6719278466741826
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.752,
+        "mse": 0.09916004077754277,
+        "precision": 0.7289719626168224,
+        "recall": 0.7027027027027027,
+        "f1_score": 0.7155963302752294
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords",
+            "learning_rate": 0.5,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.699,
+        "mse": 0.12296763407524937,
+        "precision": 0.6334745762711864,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6651835372636262
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.682,
+        "mse": 0.10654246307816004,
+        "precision": 0.7142857142857143,
+        "recall": 0.47297297297297297,
+        "f1_score": 0.5691056910569106
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.7,
+        "mse": 0.09997286445318619,
+        "precision": 0.6906906906906907,
+        "recall": 0.5386416861826698,
+        "f1_score": 0.6052631578947368
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.756,
+        "mse": 0.08600754059753457,
+        "precision": 0.7450980392156863,
+        "recall": 0.6846846846846847,
+        "f1_score": 0.7136150234741784
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.722,
+        "mse": 0.09220435166870303,
+        "precision": 0.6839506172839506,
+        "recall": 0.6487119437939111,
+        "f1_score": 0.6658653846153846
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.772,
+        "mse": 0.08221320043081191,
+        "precision": 0.7523364485981309,
+        "recall": 0.7252252252252253,
+        "f1_score": 0.7385321100917431
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.724,
+        "mse": 0.09360104819456691,
+        "precision": 0.668903803131991,
+        "recall": 0.7002341920374707,
+        "f1_score": 0.6842105263157895
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.648,
+        "mse": 0.11585876161902023,
+        "precision": 0.8194444444444444,
+        "recall": 0.26576576576576577,
+        "f1_score": 0.4013605442176871
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.668,
+        "mse": 0.10832377214774383,
+        "precision": 0.6970954356846473,
+        "recall": 0.39344262295081966,
+        "f1_score": 0.5029940119760479
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.702,
+        "mse": 0.09870741828709753,
+        "precision": 0.7109826589595376,
+        "recall": 0.5540540540540541,
+        "f1_score": 0.6227848101265823
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.715,
+        "mse": 0.09626279902634675,
+        "precision": 0.6961325966850829,
+        "recall": 0.5901639344262295,
+        "f1_score": 0.6387832699619772
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.74,
+        "mse": 0.08877292056517476,
+        "precision": 0.7371134020618557,
+        "recall": 0.6441441441441441,
+        "f1_score": 0.6875
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 32,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.727,
+        "mse": 0.09289169426944396,
+        "precision": 0.6915422885572139,
+        "recall": 0.6510538641686182,
+        "f1_score": 0.6706875753920386
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.566,
+        "mse": 0.11987808671264404,
+        "precision": 1.0,
+        "recall": 0.02252252252252252,
+        "f1_score": 0.04405286343612335
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.598,
+        "mse": 0.11622310984064627,
+        "precision": 0.711864406779661,
+        "recall": 0.09836065573770492,
+        "f1_score": 0.1728395061728395
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.66,
+        "mse": 0.11109155867386966,
+        "precision": 0.7063492063492064,
+        "recall": 0.4009009009009009,
+        "f1_score": 0.5114942528735632
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 300
+        },
+        "Exactitud": 0.688,
+        "mse": 0.10294307738275306,
+        "precision": 0.6910299003322259,
+        "recall": 0.48711943793911006,
+        "f1_score": 0.5714285714285714
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.696,
+        "mse": 0.10211946352257706,
+        "precision": 0.7160493827160493,
+        "recall": 0.5225225225225225,
+        "f1_score": 0.6041666666666666
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 500
+        },
+        "Exactitud": 0.706,
+        "mse": 0.09788873304002733,
+        "precision": 0.6894586894586895,
+        "recall": 0.5667447306791569,
+        "f1_score": 0.622107969151671
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "spanish",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.764,
+        "mse": 0.08532026087383829,
+        "precision": 0.7524271844660194,
+        "recall": 0.6981981981981982,
+        "f1_score": 0.7242990654205608
+    },
+    {
+        "Configuracion": {
+            "num_neuronas_ocultas": 64,
+            "inicializacion": "xavier",
+            "normalizacion_datos": "normalizar_texto_stopwords_stemming",
+            "learning_rate": 0.1,
+            "batch_size": 16,
+            "idioma": "english",
+            "pesado_terminos": "tf",
+            "representacion": "unigramas",
+            "epochs": 100
+        },
+        "Exactitud": 0.725,
+        "mse": 0.10050140961163076,
+        "precision": 0.6652173913043479,
+        "recall": 0.7166276346604216,
+        "f1_score": 0.6899661781285231
+    }
+]
