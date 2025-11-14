@@ -1,0 +1,2792 @@
+[
+  {
+    "id_configuracion": 1,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.718978102189781,
+      "recall": 0.4613583138173302,
+      "f1_score": 0.5620542082738944
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7537777777777778,
+      "precision": 0.821501846532622,
+      "recall": 0.5292096219931272,
+      "f1_score": 0.6437299035369775
+    },
+    "mse_final": 0.17854080562157815,
+    "accuracy_final": 0.7537777777777778,
+    "tiempo_entrenamiento": 163.89791345596313,
+    "timestamp": "2025-11-11T14:03:51.492979",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 2,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.718978102189781,
+      "recall": 0.4613583138173302,
+      "f1_score": 0.5620542082738944
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7537777777777778,
+      "precision": 0.821501846532622,
+      "recall": 0.5292096219931272,
+      "f1_score": 0.6437299035369775
+    },
+    "mse_final": 0.17854080562157815,
+    "accuracy_final": 0.7537777777777778,
+    "tiempo_entrenamiento": 154.79193353652954,
+    "timestamp": "2025-11-11T14:06:26.703954",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 3,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.718978102189781,
+      "recall": 0.4613583138173302,
+      "f1_score": 0.5620542082738944
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7537777777777778,
+      "precision": 0.821501846532622,
+      "recall": 0.5292096219931272,
+      "f1_score": 0.6437299035369775
+    },
+    "mse_final": 0.17854080562157815,
+    "accuracy_final": 0.7537777777777778,
+    "tiempo_entrenamiento": 152.94146466255188,
+    "timestamp": "2025-11-11T14:09:00.042345",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 4,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.718978102189781,
+      "recall": 0.4613583138173302,
+      "f1_score": 0.5620542082738944
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7537777777777778,
+      "precision": 0.821501846532622,
+      "recall": 0.5292096219931272,
+      "f1_score": 0.6437299035369775
+    },
+    "mse_final": 0.17854080562157815,
+    "accuracy_final": 0.7537777777777778,
+    "tiempo_entrenamiento": 137.0173110961914,
+    "timestamp": "2025-11-11T14:11:17.455811",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 5,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.679,
+      "precision": 0.6962962962962963,
+      "recall": 0.44028103044496486,
+      "f1_score": 0.539454806312769
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7365555555555555,
+      "precision": 0.8037865748709122,
+      "recall": 0.49378799894263814,
+      "f1_score": 0.6117570001637466
+    },
+    "mse_final": 0.19024317128623602,
+    "accuracy_final": 0.7365555555555555,
+    "tiempo_entrenamiento": 137.1924901008606,
+    "timestamp": "2025-11-11T14:13:35.042988",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 6,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.679,
+      "precision": 0.6962962962962963,
+      "recall": 0.44028103044496486,
+      "f1_score": 0.539454806312769
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7365555555555555,
+      "precision": 0.8037865748709122,
+      "recall": 0.49378799894263814,
+      "f1_score": 0.6117570001637466
+    },
+    "mse_final": 0.19024317128623602,
+    "accuracy_final": 0.7365555555555555,
+    "tiempo_entrenamiento": 136.27757143974304,
+    "timestamp": "2025-11-11T14:15:51.715231",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 7,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.679,
+      "precision": 0.6962962962962963,
+      "recall": 0.44028103044496486,
+      "f1_score": 0.539454806312769
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7365555555555555,
+      "precision": 0.8037865748709122,
+      "recall": 0.49378799894263814,
+      "f1_score": 0.6117570001637466
+    },
+    "mse_final": 0.19024317128623602,
+    "accuracy_final": 0.7365555555555555,
+    "tiempo_entrenamiento": 142.1971709728241,
+    "timestamp": "2025-11-11T14:18:14.335377",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 8,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.679,
+      "precision": 0.6962962962962963,
+      "recall": 0.44028103044496486,
+      "f1_score": 0.539454806312769
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7365555555555555,
+      "precision": 0.8037865748709122,
+      "recall": 0.49378799894263814,
+      "f1_score": 0.6117570001637466
+    },
+    "mse_final": 0.19024317128623602,
+    "accuracy_final": 0.7365555555555555,
+    "tiempo_entrenamiento": 163.896666765213,
+    "timestamp": "2025-11-11T14:20:58.650734",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 9,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.628,
+      "precision": 0.7310924369747899,
+      "recall": 0.20374707259953162,
+      "f1_score": 0.31868131868131866
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6557777777777778,
+      "precision": 0.8491335372069317,
+      "recall": 0.22019561194818926,
+      "f1_score": 0.3497061293031066
+    },
+    "mse_final": 0.22113516843479292,
+    "accuracy_final": 0.6557777777777778,
+    "tiempo_entrenamiento": 127.31704592704773,
+    "timestamp": "2025-11-11T14:23:06.390783",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 10,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.628,
+      "precision": 0.7310924369747899,
+      "recall": 0.20374707259953162,
+      "f1_score": 0.31868131868131866
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6557777777777778,
+      "precision": 0.8491335372069317,
+      "recall": 0.22019561194818926,
+      "f1_score": 0.3497061293031066
+    },
+    "mse_final": 0.22113516843479292,
+    "accuracy_final": 0.6557777777777778,
+    "tiempo_entrenamiento": 122.93290495872498,
+    "timestamp": "2025-11-11T14:25:09.722998",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 11,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.628,
+      "precision": 0.7310924369747899,
+      "recall": 0.20374707259953162,
+      "f1_score": 0.31868131868131866
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6557777777777778,
+      "precision": 0.8491335372069317,
+      "recall": 0.22019561194818926,
+      "f1_score": 0.3497061293031066
+    },
+    "mse_final": 0.22113516843479292,
+    "accuracy_final": 0.6557777777777778,
+    "tiempo_entrenamiento": 112.87318134307861,
+    "timestamp": "2025-11-11T14:27:02.992866",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 12,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.628,
+      "precision": 0.7310924369747899,
+      "recall": 0.20374707259953162,
+      "f1_score": 0.31868131868131866
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6557777777777778,
+      "precision": 0.8491335372069317,
+      "recall": 0.22019561194818926,
+      "f1_score": 0.3497061293031066
+    },
+    "mse_final": 0.22113516843479292,
+    "accuracy_final": 0.6557777777777778,
+    "tiempo_entrenamiento": 113.10241532325745,
+    "timestamp": "2025-11-11T14:28:56.498282",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 13,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.603,
+      "precision": 0.7272727272727273,
+      "recall": 0.11241217798594848,
+      "f1_score": 0.1947261663286004
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6163333333333333,
+      "precision": 0.8451882845188284,
+      "recall": 0.10679355009251916,
+      "f1_score": 0.18962684815770947
+    },
+    "mse_final": 0.2289277317675311,
+    "accuracy_final": 0.6163333333333333,
+    "tiempo_entrenamiento": 112.41444563865662,
+    "timestamp": "2025-11-11T14:30:49.307498",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 14,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.603,
+      "precision": 0.7272727272727273,
+      "recall": 0.11241217798594848,
+      "f1_score": 0.1947261663286004
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6163333333333333,
+      "precision": 0.8451882845188284,
+      "recall": 0.10679355009251916,
+      "f1_score": 0.18962684815770947
+    },
+    "mse_final": 0.2289277317675311,
+    "accuracy_final": 0.6163333333333333,
+    "tiempo_entrenamiento": 112.5128116607666,
+    "timestamp": "2025-11-11T14:32:42.214283",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 15,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.603,
+      "precision": 0.7272727272727273,
+      "recall": 0.11241217798594848,
+      "f1_score": 0.1947261663286004
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6163333333333333,
+      "precision": 0.8451882845188284,
+      "recall": 0.10679355009251916,
+      "f1_score": 0.18962684815770947
+    },
+    "mse_final": 0.2289277317675311,
+    "accuracy_final": 0.6163333333333333,
+    "tiempo_entrenamiento": 112.78197193145752,
+    "timestamp": "2025-11-11T14:34:35.394739",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 16,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.603,
+      "precision": 0.7272727272727273,
+      "recall": 0.11241217798594848,
+      "f1_score": 0.1947261663286004
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.6163333333333333,
+      "precision": 0.8451882845188284,
+      "recall": 0.10679355009251916,
+      "f1_score": 0.18962684815770947
+    },
+    "mse_final": 0.2289277317675311,
+    "accuracy_final": 0.6163333333333333,
+    "tiempo_entrenamiento": 113.17875576019287,
+    "timestamp": "2025-11-11T14:36:28.967389",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 17,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.576,
+      "precision": 0.8,
+      "recall": 0.00936768149882904,
+      "f1_score": 0.018518518518518517
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5801111111111111,
+      "precision": 0.8333333333333334,
+      "recall": 0.0013217023526301878,
+      "f1_score": 0.0026392187912377936
+    },
+    "mse_final": 0.23708966988174243,
+    "accuracy_final": 0.5801111111111111,
+    "tiempo_entrenamiento": 110.86081147193909,
+    "timestamp": "2025-11-11T14:38:20.227779",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 18,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.576,
+      "precision": 0.8,
+      "recall": 0.00936768149882904,
+      "f1_score": 0.018518518518518517
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5801111111111111,
+      "precision": 0.8333333333333334,
+      "recall": 0.0013217023526301878,
+      "f1_score": 0.0026392187912377936
+    },
+    "mse_final": 0.23708966988174243,
+    "accuracy_final": 0.5801111111111111,
+    "tiempo_entrenamiento": 106.12438631057739,
+    "timestamp": "2025-11-11T14:40:06.746230",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 19,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.576,
+      "precision": 0.8,
+      "recall": 0.00936768149882904,
+      "f1_score": 0.018518518518518517
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5801111111111111,
+      "precision": 0.8333333333333334,
+      "recall": 0.0013217023526301878,
+      "f1_score": 0.0026392187912377936
+    },
+    "mse_final": 0.23708966988174243,
+    "accuracy_final": 0.5801111111111111,
+    "tiempo_entrenamiento": 113.25322771072388,
+    "timestamp": "2025-11-11T14:42:00.420446",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 20,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.576,
+      "precision": 0.8,
+      "recall": 0.00936768149882904,
+      "f1_score": 0.018518518518518517
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5801111111111111,
+      "precision": 0.8333333333333334,
+      "recall": 0.0013217023526301878,
+      "f1_score": 0.0026392187912377936
+    },
+    "mse_final": 0.23708966988174243,
+    "accuracy_final": 0.5801111111111111,
+    "tiempo_entrenamiento": 118.40866494178772,
+    "timestamp": "2025-11-11T14:43:59.249808",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 21,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.572,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5798888888888889,
+      "precision": 1.0,
+      "recall": 0.000528680941052075,
+      "f1_score": 0.0010568031704095112
+    },
+    "mse_final": 0.23936873583814092,
+    "accuracy_final": 0.5798888888888889,
+    "tiempo_entrenamiento": 124.35997295379639,
+    "timestamp": "2025-11-11T14:46:04.030744",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 22,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.572,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5798888888888889,
+      "precision": 1.0,
+      "recall": 0.000528680941052075,
+      "f1_score": 0.0010568031704095112
+    },
+    "mse_final": 0.23936873583814092,
+    "accuracy_final": 0.5798888888888889,
+    "tiempo_entrenamiento": 112.34061884880066,
+    "timestamp": "2025-11-11T14:47:56.765273",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 23,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.572,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5798888888888889,
+      "precision": 1.0,
+      "recall": 0.000528680941052075,
+      "f1_score": 0.0010568031704095112
+    },
+    "mse_final": 0.23936873583814092,
+    "accuracy_final": 0.5798888888888889,
+    "tiempo_entrenamiento": 110.96470141410828,
+    "timestamp": "2025-11-11T14:49:48.125970",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 24,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.572,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5798888888888889,
+      "precision": 1.0,
+      "recall": 0.000528680941052075,
+      "f1_score": 0.0010568031704095112
+    },
+    "mse_final": 0.23936873583814092,
+    "accuracy_final": 0.5798888888888889,
+    "tiempo_entrenamiento": 105.58801603317261,
+    "timestamp": "2025-11-11T14:51:34.111430",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 25,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.648068669527897,
+      "recall": 0.7072599531615925,
+      "f1_score": 0.6763717805151176
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.969,
+      "precision": 0.9647214854111406,
+      "recall": 0.9614062913031985,
+      "f1_score": 0.9630610353501919
+    },
+    "mse_final": 0.04431676174605612,
+    "accuracy_final": 0.969,
+    "tiempo_entrenamiento": 136.68619847297668,
+    "timestamp": "2025-11-11T14:53:51.193631",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 26,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.648068669527897,
+      "recall": 0.7072599531615925,
+      "f1_score": 0.6763717805151176
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.969,
+      "precision": 0.9647214854111406,
+      "recall": 0.9614062913031985,
+      "f1_score": 0.9630610353501919
+    },
+    "mse_final": 0.04431676174605612,
+    "accuracy_final": 0.969,
+    "tiempo_entrenamiento": 137.09684896469116,
+    "timestamp": "2025-11-11T14:56:08.685961",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 27,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.648068669527897,
+      "recall": 0.7072599531615925,
+      "f1_score": 0.6763717805151176
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.969,
+      "precision": 0.9647214854111406,
+      "recall": 0.9614062913031985,
+      "f1_score": 0.9630610353501919
+    },
+    "mse_final": 0.04431676174605612,
+    "accuracy_final": 0.969,
+    "tiempo_entrenamiento": 136.7774474620819,
+    "timestamp": "2025-11-11T14:58:25.858876",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 28,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.648068669527897,
+      "recall": 0.7072599531615925,
+      "f1_score": 0.6763717805151176
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.969,
+      "precision": 0.9647214854111406,
+      "recall": 0.9614062913031985,
+      "f1_score": 0.9630610353501919
+    },
+    "mse_final": 0.04431676174605612,
+    "accuracy_final": 0.969,
+    "tiempo_entrenamiento": 137.77656435966492,
+    "timestamp": "2025-11-11T15:00:44.032760",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 29,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.709,
+      "precision": 0.6471861471861472,
+      "recall": 0.7002341920374707,
+      "f1_score": 0.672665916760405
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9497777777777778,
+      "precision": 0.9452018176958032,
+      "recall": 0.9347079037800687,
+      "f1_score": 0.9399255715045188
+    },
+    "mse_final": 0.057246756656411046,
+    "accuracy_final": 0.9497777777777778,
+    "tiempo_entrenamiento": 136.8038535118103,
+    "timestamp": "2025-11-11T15:03:01.231625",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 30,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.709,
+      "precision": 0.6471861471861472,
+      "recall": 0.7002341920374707,
+      "f1_score": 0.672665916760405
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9497777777777778,
+      "precision": 0.9452018176958032,
+      "recall": 0.9347079037800687,
+      "f1_score": 0.9399255715045188
+    },
+    "mse_final": 0.057246756656411046,
+    "accuracy_final": 0.9497777777777778,
+    "tiempo_entrenamiento": 137.80974793434143,
+    "timestamp": "2025-11-11T15:05:19.436913",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 31,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.709,
+      "precision": 0.6471861471861472,
+      "recall": 0.7002341920374707,
+      "f1_score": 0.672665916760405
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9497777777777778,
+      "precision": 0.9452018176958032,
+      "recall": 0.9347079037800687,
+      "f1_score": 0.9399255715045188
+    },
+    "mse_final": 0.057246756656411046,
+    "accuracy_final": 0.9497777777777778,
+    "tiempo_entrenamiento": 136.24987936019897,
+    "timestamp": "2025-11-11T15:07:36.083243",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 32,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.709,
+      "precision": 0.6471861471861472,
+      "recall": 0.7002341920374707,
+      "f1_score": 0.672665916760405
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9497777777777778,
+      "precision": 0.9452018176958032,
+      "recall": 0.9347079037800687,
+      "f1_score": 0.9399255715045188
+    },
+    "mse_final": 0.057246756656411046,
+    "accuracy_final": 0.9497777777777778,
+    "tiempo_entrenamiento": 136.79715275764465,
+    "timestamp": "2025-11-11T15:09:53.276537",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 33,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.727,
+      "precision": 0.672645739910314,
+      "recall": 0.702576112412178,
+      "f1_score": 0.6872852233676976
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.895,
+      "precision": 0.8928571428571429,
+      "recall": 0.852498017446471,
+      "f1_score": 0.8722109533468559
+    },
+    "mse_final": 0.09337415721554543,
+    "accuracy_final": 0.895,
+    "tiempo_entrenamiento": 113.40867400169373,
+    "timestamp": "2025-11-11T15:11:47.080654",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 34,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.727,
+      "precision": 0.672645739910314,
+      "recall": 0.702576112412178,
+      "f1_score": 0.6872852233676976
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.895,
+      "precision": 0.8928571428571429,
+      "recall": 0.852498017446471,
+      "f1_score": 0.8722109533468559
+    },
+    "mse_final": 0.09337415721554543,
+    "accuracy_final": 0.895,
+    "tiempo_entrenamiento": 112.9611394405365,
+    "timestamp": "2025-11-11T15:13:40.436804",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 35,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.727,
+      "precision": 0.672645739910314,
+      "recall": 0.702576112412178,
+      "f1_score": 0.6872852233676976
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.895,
+      "precision": 0.8928571428571429,
+      "recall": 0.852498017446471,
+      "f1_score": 0.8722109533468559
+    },
+    "mse_final": 0.09337415721554543,
+    "accuracy_final": 0.895,
+    "tiempo_entrenamiento": 113.0221152305603,
+    "timestamp": "2025-11-11T15:15:33.854243",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 36,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.727,
+      "precision": 0.672645739910314,
+      "recall": 0.702576112412178,
+      "f1_score": 0.6872852233676976
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.895,
+      "precision": 0.8928571428571429,
+      "recall": 0.852498017446471,
+      "f1_score": 0.8722109533468559
+    },
+    "mse_final": 0.09337415721554543,
+    "accuracy_final": 0.895,
+    "tiempo_entrenamiento": 113.54009413719177,
+    "timestamp": "2025-11-11T15:17:27.791324",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 37,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.722,
+      "precision": 0.671264367816092,
+      "recall": 0.6838407494145199,
+      "f1_score": 0.6774941995359629
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8676666666666667,
+      "precision": 0.8650704225352113,
+      "recall": 0.8117895849854613,
+      "f1_score": 0.8375835265239329
+    },
+    "mse_final": 0.10800809244099664,
+    "accuracy_final": 0.8676666666666667,
+    "tiempo_entrenamiento": 113.10173559188843,
+    "timestamp": "2025-11-11T15:19:21.288754",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 38,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.722,
+      "precision": 0.671264367816092,
+      "recall": 0.6838407494145199,
+      "f1_score": 0.6774941995359629
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8676666666666667,
+      "precision": 0.8650704225352113,
+      "recall": 0.8117895849854613,
+      "f1_score": 0.8375835265239329
+    },
+    "mse_final": 0.10800809244099664,
+    "accuracy_final": 0.8676666666666667,
+    "tiempo_entrenamiento": 112.83492875099182,
+    "timestamp": "2025-11-11T15:21:14.520839",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 39,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.722,
+      "precision": 0.671264367816092,
+      "recall": 0.6838407494145199,
+      "f1_score": 0.6774941995359629
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8676666666666667,
+      "precision": 0.8650704225352113,
+      "recall": 0.8117895849854613,
+      "f1_score": 0.8375835265239329
+    },
+    "mse_final": 0.10800809244099664,
+    "accuracy_final": 0.8676666666666667,
+    "tiempo_entrenamiento": 112.56129789352417,
+    "timestamp": "2025-11-11T15:23:07.480940",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 40,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.722,
+      "precision": 0.671264367816092,
+      "recall": 0.6838407494145199,
+      "f1_score": 0.6774941995359629
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8676666666666667,
+      "precision": 0.8650704225352113,
+      "recall": 0.8117895849854613,
+      "f1_score": 0.8375835265239329
+    },
+    "mse_final": 0.10800809244099664,
+    "accuracy_final": 0.8676666666666667,
+    "tiempo_entrenamiento": 113.70253849029541,
+    "timestamp": "2025-11-11T15:25:01.578320",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 41,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.723,
+      "precision": 0.6875,
+      "recall": 0.6440281030444965,
+      "f1_score": 0.6650544135429263
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8203333333333334,
+      "precision": 0.8303843807199512,
+      "recall": 0.7195347607718742,
+      "f1_score": 0.7709956096870132
+    },
+    "mse_final": 0.1335170611718195,
+    "accuracy_final": 0.8203333333333334,
+    "tiempo_entrenamiento": 111.13484215736389,
+    "timestamp": "2025-11-11T15:26:53.107463",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 42,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.723,
+      "precision": 0.6875,
+      "recall": 0.6440281030444965,
+      "f1_score": 0.6650544135429263
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8203333333333334,
+      "precision": 0.8303843807199512,
+      "recall": 0.7195347607718742,
+      "f1_score": 0.7709956096870132
+    },
+    "mse_final": 0.1335170611718195,
+    "accuracy_final": 0.8203333333333334,
+    "tiempo_entrenamiento": 106.28184771537781,
+    "timestamp": "2025-11-11T15:28:39.781789",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 43,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.723,
+      "precision": 0.6875,
+      "recall": 0.6440281030444965,
+      "f1_score": 0.6650544135429263
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8203333333333334,
+      "precision": 0.8303843807199512,
+      "recall": 0.7195347607718742,
+      "f1_score": 0.7709956096870132
+    },
+    "mse_final": 0.1335170611718195,
+    "accuracy_final": 0.8203333333333334,
+    "tiempo_entrenamiento": 111.30931067466736,
+    "timestamp": "2025-11-11T15:30:31.486589",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 44,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.723,
+      "precision": 0.6875,
+      "recall": 0.6440281030444965,
+      "f1_score": 0.6650544135429263
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8203333333333334,
+      "precision": 0.8303843807199512,
+      "recall": 0.7195347607718742,
+      "f1_score": 0.7709956096870132
+    },
+    "mse_final": 0.1335170611718195,
+    "accuracy_final": 0.8203333333333334,
+    "tiempo_entrenamiento": 105.48264598846436,
+    "timestamp": "2025-11-11T15:32:17.367746",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 45,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6794871794871795,
+      "recall": 0.6206088992974239,
+      "f1_score": 0.6487148102815178
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8025555555555556,
+      "precision": 0.8099505562422744,
+      "recall": 0.6928363732487444,
+      "f1_score": 0.7468300327682006
+    },
+    "mse_final": 0.14423093397640965,
+    "accuracy_final": 0.8025555555555556,
+    "tiempo_entrenamiento": 111.62171936035156,
+    "timestamp": "2025-11-11T15:34:09.385240",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 46,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6794871794871795,
+      "recall": 0.6206088992974239,
+      "f1_score": 0.6487148102815178
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8025555555555556,
+      "precision": 0.8099505562422744,
+      "recall": 0.6928363732487444,
+      "f1_score": 0.7468300327682006
+    },
+    "mse_final": 0.14423093397640965,
+    "accuracy_final": 0.8025555555555556,
+    "tiempo_entrenamiento": 106.37057948112488,
+    "timestamp": "2025-11-11T15:35:56.151838",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 47,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6794871794871795,
+      "recall": 0.6206088992974239,
+      "f1_score": 0.6487148102815178
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8025555555555556,
+      "precision": 0.8099505562422744,
+      "recall": 0.6928363732487444,
+      "f1_score": 0.7468300327682006
+    },
+    "mse_final": 0.14423093397640965,
+    "accuracy_final": 0.8025555555555556,
+    "tiempo_entrenamiento": 111.59240698814392,
+    "timestamp": "2025-11-11T15:37:48.140656",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 48,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 32,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6794871794871795,
+      "recall": 0.6206088992974239,
+      "f1_score": 0.6487148102815178
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8025555555555556,
+      "precision": 0.8099505562422744,
+      "recall": 0.6928363732487444,
+      "f1_score": 0.7468300327682006
+    },
+    "mse_final": 0.14423093397640965,
+    "accuracy_final": 0.8025555555555556,
+    "tiempo_entrenamiento": 105.68410348892212,
+    "timestamp": "2025-11-11T15:39:34.220243",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 49,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.7027027027027027,
+      "recall": 0.48711943793911006,
+      "f1_score": 0.5753803596127247
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7598888888888888,
+      "precision": 0.8148291925465838,
+      "recall": 0.5548506476341528,
+      "f1_score": 0.6601666928762384
+    },
+    "mse_final": 0.17321349625173837,
+    "accuracy_final": 0.7598888888888888,
+    "tiempo_entrenamiento": 248.6524441242218,
+    "timestamp": "2025-11-11T15:43:43.309773",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 50,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.7027027027027027,
+      "recall": 0.48711943793911006,
+      "f1_score": 0.5753803596127247
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7598888888888888,
+      "precision": 0.8148291925465838,
+      "recall": 0.5548506476341528,
+      "f1_score": 0.6601666928762384
+    },
+    "mse_final": 0.17321349625173837,
+    "accuracy_final": 0.7598888888888888,
+    "tiempo_entrenamiento": 247.86260604858398,
+    "timestamp": "2025-11-11T15:47:51.613496",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 51,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.7027027027027027,
+      "recall": 0.48711943793911006,
+      "f1_score": 0.5753803596127247
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7598888888888888,
+      "precision": 0.8148291925465838,
+      "recall": 0.5548506476341528,
+      "f1_score": 0.6601666928762384
+    },
+    "mse_final": 0.17321349625173837,
+    "accuracy_final": 0.7598888888888888,
+    "tiempo_entrenamiento": 250.04115509986877,
+    "timestamp": "2025-11-11T15:52:02.100870",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 52,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.693,
+      "precision": 0.7027027027027027,
+      "recall": 0.48711943793911006,
+      "f1_score": 0.5753803596127247
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.7598888888888888,
+      "precision": 0.8148291925465838,
+      "recall": 0.5548506476341528,
+      "f1_score": 0.6601666928762384
+    },
+    "mse_final": 0.17321349625173837,
+    "accuracy_final": 0.7598888888888888,
+    "tiempo_entrenamiento": 248.54315447807312,
+    "timestamp": "2025-11-11T15:56:11.085108",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 53,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.676,
+      "precision": 0.66996699669967,
+      "recall": 0.47540983606557374,
+      "f1_score": 0.5561643835616439
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.752,
+      "precision": 0.7961053837342497,
+      "recall": 0.5511498810467883,
+      "f1_score": 0.6513589503280225
+    },
+    "mse_final": 0.1799212975324888,
+    "accuracy_final": 0.752,
+    "tiempo_entrenamiento": 249.3249809741974,
+    "timestamp": "2025-11-11T16:00:20.850833",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 54,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.676,
+      "precision": 0.66996699669967,
+      "recall": 0.47540983606557374,
+      "f1_score": 0.5561643835616439
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.752,
+      "precision": 0.7961053837342497,
+      "recall": 0.5511498810467883,
+      "f1_score": 0.6513589503280225
+    },
+    "mse_final": 0.1799212975324888,
+    "accuracy_final": 0.752,
+    "tiempo_entrenamiento": 249.1913468837738,
+    "timestamp": "2025-11-11T16:04:30.479940",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 55,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.676,
+      "precision": 0.66996699669967,
+      "recall": 0.47540983606557374,
+      "f1_score": 0.5561643835616439
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.752,
+      "precision": 0.7961053837342497,
+      "recall": 0.5511498810467883,
+      "f1_score": 0.6513589503280225
+    },
+    "mse_final": 0.1799212975324888,
+    "accuracy_final": 0.752,
+    "tiempo_entrenamiento": 250.29818987846375,
+    "timestamp": "2025-11-11T16:08:41.222019",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 56,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.676,
+      "precision": 0.66996699669967,
+      "recall": 0.47540983606557374,
+      "f1_score": 0.5561643835616439
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.752,
+      "precision": 0.7961053837342497,
+      "recall": 0.5511498810467883,
+      "f1_score": 0.6513589503280225
+    },
+    "mse_final": 0.1799212975324888,
+    "accuracy_final": 0.752,
+    "tiempo_entrenamiento": 248.06205868721008,
+    "timestamp": "2025-11-11T16:12:49.724339",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 57,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.649,
+      "precision": 0.740506329113924,
+      "recall": 0.27400468384074944,
+      "f1_score": 0.4
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.693,
+      "precision": 0.8298835705045278,
+      "recall": 0.3391488236849062,
+      "f1_score": 0.48151623193845
+    },
+    "mse_final": 0.21236012999846615,
+    "accuracy_final": 0.693,
+    "tiempo_entrenamiento": 190.75840067863464,
+    "timestamp": "2025-11-11T16:16:00.923799",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 58,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.649,
+      "precision": 0.740506329113924,
+      "recall": 0.27400468384074944,
+      "f1_score": 0.4
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.693,
+      "precision": 0.8298835705045278,
+      "recall": 0.3391488236849062,
+      "f1_score": 0.48151623193845
+    },
+    "mse_final": 0.21236012999846615,
+    "accuracy_final": 0.693,
+    "tiempo_entrenamiento": 180.6129117012024,
+    "timestamp": "2025-11-11T16:19:01.983110",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 59,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.649,
+      "precision": 0.740506329113924,
+      "recall": 0.27400468384074944,
+      "f1_score": 0.4
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.693,
+      "precision": 0.8298835705045278,
+      "recall": 0.3391488236849062,
+      "f1_score": 0.48151623193845
+    },
+    "mse_final": 0.21236012999846615,
+    "accuracy_final": 0.693,
+    "tiempo_entrenamiento": 179.97000646591187,
+    "timestamp": "2025-11-11T16:22:02.398229",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 60,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.649,
+      "precision": 0.740506329113924,
+      "recall": 0.27400468384074944,
+      "f1_score": 0.4
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.693,
+      "precision": 0.8298835705045278,
+      "recall": 0.3391488236849062,
+      "f1_score": 0.48151623193845
+    },
+    "mse_final": 0.21236012999846615,
+    "accuracy_final": 0.693,
+    "tiempo_entrenamiento": 181.437251329422,
+    "timestamp": "2025-11-11T16:25:04.277404",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 61,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.642,
+      "precision": 0.7065868263473054,
+      "recall": 0.27634660421545665,
+      "f1_score": 0.39730639730639733
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.684,
+      "precision": 0.8217957505140507,
+      "recall": 0.316944224160719,
+      "f1_score": 0.4574589851201831
+    },
+    "mse_final": 0.21636751919701672,
+    "accuracy_final": 0.684,
+    "tiempo_entrenamiento": 181.5052433013916,
+    "timestamp": "2025-11-11T16:28:06.226226",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 62,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.642,
+      "precision": 0.7065868263473054,
+      "recall": 0.27634660421545665,
+      "f1_score": 0.39730639730639733
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.684,
+      "precision": 0.8217957505140507,
+      "recall": 0.316944224160719,
+      "f1_score": 0.4574589851201831
+    },
+    "mse_final": 0.21636751919701672,
+    "accuracy_final": 0.684,
+    "tiempo_entrenamiento": 180.42149662971497,
+    "timestamp": "2025-11-11T16:31:07.089262",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 63,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.642,
+      "precision": 0.7065868263473054,
+      "recall": 0.27634660421545665,
+      "f1_score": 0.39730639730639733
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.684,
+      "precision": 0.8217957505140507,
+      "recall": 0.316944224160719,
+      "f1_score": 0.4574589851201831
+    },
+    "mse_final": 0.21636751919701672,
+    "accuracy_final": 0.684,
+    "tiempo_entrenamiento": 180.87207007408142,
+    "timestamp": "2025-11-11T16:34:08.400805",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 64,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.642,
+      "precision": 0.7065868263473054,
+      "recall": 0.27634660421545665,
+      "f1_score": 0.39730639730639733
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.684,
+      "precision": 0.8217957505140507,
+      "recall": 0.316944224160719,
+      "f1_score": 0.4574589851201831
+    },
+    "mse_final": 0.21636751919701672,
+    "accuracy_final": 0.684,
+    "tiempo_entrenamiento": 179.70068860054016,
+    "timestamp": "2025-11-11T16:37:08.539723",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 65,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.586,
+      "precision": 0.8095238095238095,
+      "recall": 0.03981264637002342,
+      "f1_score": 0.07589285714285714
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5853333333333334,
+      "precision": 0.9047619047619048,
+      "recall": 0.01506740681998414,
+      "f1_score": 0.029641185647425898
+    },
+    "mse_final": 0.23336498248774837,
+    "accuracy_final": 0.5853333333333334,
+    "tiempo_entrenamiento": 152.24271702766418,
+    "timestamp": "2025-11-11T16:39:41.226057",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 66,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.586,
+      "precision": 0.8095238095238095,
+      "recall": 0.03981264637002342,
+      "f1_score": 0.07589285714285714
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5853333333333334,
+      "precision": 0.9047619047619048,
+      "recall": 0.01506740681998414,
+      "f1_score": 0.029641185647425898
+    },
+    "mse_final": 0.23336498248774837,
+    "accuracy_final": 0.5853333333333334,
+    "tiempo_entrenamiento": 142.00051498413086,
+    "timestamp": "2025-11-11T16:42:03.671383",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 67,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.586,
+      "precision": 0.8095238095238095,
+      "recall": 0.03981264637002342,
+      "f1_score": 0.07589285714285714
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5853333333333334,
+      "precision": 0.9047619047619048,
+      "recall": 0.01506740681998414,
+      "f1_score": 0.029641185647425898
+    },
+    "mse_final": 0.23336498248774837,
+    "accuracy_final": 0.5853333333333334,
+    "tiempo_entrenamiento": 142.79975819587708,
+    "timestamp": "2025-11-11T16:44:26.913187",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 68,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.586,
+      "precision": 0.8095238095238095,
+      "recall": 0.03981264637002342,
+      "f1_score": 0.07589285714285714
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5853333333333334,
+      "precision": 0.9047619047619048,
+      "recall": 0.01506740681998414,
+      "f1_score": 0.029641185647425898
+    },
+    "mse_final": 0.23336498248774837,
+    "accuracy_final": 0.5853333333333334,
+    "tiempo_entrenamiento": 142.49093556404114,
+    "timestamp": "2025-11-11T16:46:49.847306",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 69,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.581,
+      "precision": 0.75,
+      "recall": 0.02810304449648712,
+      "f1_score": 0.05417607223476298
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5901111111111111,
+      "precision": 0.8455882352941176,
+      "recall": 0.030399154110494316,
+      "f1_score": 0.05868844092880837
+    },
+    "mse_final": 0.23421722938777342,
+    "accuracy_final": 0.5901111111111111,
+    "tiempo_entrenamiento": 143.19559478759766,
+    "timestamp": "2025-11-11T16:49:13.480116",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 70,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.581,
+      "precision": 0.75,
+      "recall": 0.02810304449648712,
+      "f1_score": 0.05417607223476298
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5901111111111111,
+      "precision": 0.8455882352941176,
+      "recall": 0.030399154110494316,
+      "f1_score": 0.05868844092880837
+    },
+    "mse_final": 0.23421722938777342,
+    "accuracy_final": 0.5901111111111111,
+    "tiempo_entrenamiento": 142.80884790420532,
+    "timestamp": "2025-11-11T16:51:36.725188",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 71,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.581,
+      "precision": 0.75,
+      "recall": 0.02810304449648712,
+      "f1_score": 0.05417607223476298
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5901111111111111,
+      "precision": 0.8455882352941176,
+      "recall": 0.030399154110494316,
+      "f1_score": 0.05868844092880837
+    },
+    "mse_final": 0.23421722938777342,
+    "accuracy_final": 0.5901111111111111,
+    "tiempo_entrenamiento": 142.29520177841187,
+    "timestamp": "2025-11-11T16:53:59.462104",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 72,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.01,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.581,
+      "precision": 0.75,
+      "recall": 0.02810304449648712,
+      "f1_score": 0.05417607223476298
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.5901111111111111,
+      "precision": 0.8455882352941176,
+      "recall": 0.030399154110494316,
+      "f1_score": 0.05868844092880837
+    },
+    "mse_final": 0.23421722938777342,
+    "accuracy_final": 0.5901111111111111,
+    "tiempo_entrenamiento": 141.64723563194275,
+    "timestamp": "2025-11-11T16:56:21.546863",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 73,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.6513157894736842,
+      "recall": 0.6955503512880562,
+      "f1_score": 0.6727066817667045
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9702222222222222,
+      "precision": 0.967793452222518,
+      "recall": 0.9611419508326725,
+      "f1_score": 0.9644562334217507
+    },
+    "mse_final": 0.043562946594919945,
+    "accuracy_final": 0.9702222222222222,
+    "tiempo_entrenamiento": 245.97980904579163,
+    "timestamp": "2025-11-11T17:00:27.969836",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 74,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.6513157894736842,
+      "recall": 0.6955503512880562,
+      "f1_score": 0.6727066817667045
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9702222222222222,
+      "precision": 0.967793452222518,
+      "recall": 0.9611419508326725,
+      "f1_score": 0.9644562334217507
+    },
+    "mse_final": 0.043562946594919945,
+    "accuracy_final": 0.9702222222222222,
+    "tiempo_entrenamiento": 260.918505191803,
+    "timestamp": "2025-11-11T17:04:49.330969",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 75,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.6513157894736842,
+      "recall": 0.6955503512880562,
+      "f1_score": 0.6727066817667045
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9702222222222222,
+      "precision": 0.967793452222518,
+      "recall": 0.9611419508326725,
+      "f1_score": 0.9644562334217507
+    },
+    "mse_final": 0.043562946594919945,
+    "accuracy_final": 0.9702222222222222,
+    "tiempo_entrenamiento": 250.99090099334717,
+    "timestamp": "2025-11-11T17:09:00.765531",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 76,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.711,
+      "precision": 0.6513157894736842,
+      "recall": 0.6955503512880562,
+      "f1_score": 0.6727066817667045
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9702222222222222,
+      "precision": 0.967793452222518,
+      "recall": 0.9611419508326725,
+      "f1_score": 0.9644562334217507
+    },
+    "mse_final": 0.043562946594919945,
+    "accuracy_final": 0.9702222222222222,
+    "tiempo_entrenamiento": 249.3289201259613,
+    "timestamp": "2025-11-11T17:13:10.537183",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 77,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6535087719298246,
+      "recall": 0.6978922716627635,
+      "f1_score": 0.6749716874292185
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9543333333333334,
+      "precision": 0.9527389903329753,
+      "recall": 0.9378799894263812,
+      "f1_score": 0.9452510989742907
+    },
+    "mse_final": 0.0551485200543444,
+    "accuracy_final": 0.9543333333333334,
+    "tiempo_entrenamiento": 247.41901683807373,
+    "timestamp": "2025-11-11T17:17:18.397376",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 78,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6535087719298246,
+      "recall": 0.6978922716627635,
+      "f1_score": 0.6749716874292185
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9543333333333334,
+      "precision": 0.9527389903329753,
+      "recall": 0.9378799894263812,
+      "f1_score": 0.9452510989742907
+    },
+    "mse_final": 0.0551485200543444,
+    "accuracy_final": 0.9543333333333334,
+    "tiempo_entrenamiento": 246.59455013275146,
+    "timestamp": "2025-11-11T17:21:25.430934",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 79,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6535087719298246,
+      "recall": 0.6978922716627635,
+      "f1_score": 0.6749716874292185
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9543333333333334,
+      "precision": 0.9527389903329753,
+      "recall": 0.9378799894263812,
+      "f1_score": 0.9452510989742907
+    },
+    "mse_final": 0.0551485200543444,
+    "accuracy_final": 0.9543333333333334,
+    "tiempo_entrenamiento": 249.61629343032837,
+    "timestamp": "2025-11-11T17:25:35.487140",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 80,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 16,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.713,
+      "precision": 0.6535087719298246,
+      "recall": 0.6978922716627635,
+      "f1_score": 0.6749716874292185
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.9543333333333334,
+      "precision": 0.9527389903329753,
+      "recall": 0.9378799894263812,
+      "f1_score": 0.9452510989742907
+    },
+    "mse_final": 0.0551485200543444,
+    "accuracy_final": 0.9543333333333334,
+    "tiempo_entrenamiento": 248.98554873466492,
+    "timestamp": "2025-11-11T17:29:44.909551",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 81,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.728,
+      "precision": 0.6789838337182448,
+      "recall": 0.6885245901639344,
+      "f1_score": 0.6837209302325581
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8938888888888888,
+      "precision": 0.9014764338444066,
+      "recall": 0.8392809939201692,
+      "f1_score": 0.8692676249144422
+    },
+    "mse_final": 0.09204427032534869,
+    "accuracy_final": 0.8938888888888888,
+    "tiempo_entrenamiento": 189.9566571712494,
+    "timestamp": "2025-11-11T17:32:55.309846",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 82,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.728,
+      "precision": 0.6789838337182448,
+      "recall": 0.6885245901639344,
+      "f1_score": 0.6837209302325581
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8938888888888888,
+      "precision": 0.9014764338444066,
+      "recall": 0.8392809939201692,
+      "f1_score": 0.8692676249144422
+    },
+    "mse_final": 0.09204427032534869,
+    "accuracy_final": 0.8938888888888888,
+    "tiempo_entrenamiento": 180.70813727378845,
+    "timestamp": "2025-11-11T17:35:56.457243",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 83,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.728,
+      "precision": 0.6789838337182448,
+      "recall": 0.6885245901639344,
+      "f1_score": 0.6837209302325581
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8938888888888888,
+      "precision": 0.9014764338444066,
+      "recall": 0.8392809939201692,
+      "f1_score": 0.8692676249144422
+    },
+    "mse_final": 0.09204427032534869,
+    "accuracy_final": 0.8938888888888888,
+    "tiempo_entrenamiento": 180.337144613266,
+    "timestamp": "2025-11-11T17:38:57.234590",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 84,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.728,
+      "precision": 0.6789838337182448,
+      "recall": 0.6885245901639344,
+      "f1_score": 0.6837209302325581
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8938888888888888,
+      "precision": 0.9014764338444066,
+      "recall": 0.8392809939201692,
+      "f1_score": 0.8692676249144422
+    },
+    "mse_final": 0.09204427032534869,
+    "accuracy_final": 0.8938888888888888,
+    "tiempo_entrenamiento": 180.37988662719727,
+    "timestamp": "2025-11-11T17:41:58.060619",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 85,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.729,
+      "precision": 0.6839622641509434,
+      "recall": 0.6791569086651054,
+      "f1_score": 0.681551116333725
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8708888888888889,
+      "precision": 0.8756090570364001,
+      "recall": 0.8075601374570447,
+      "f1_score": 0.8402090209020903
+    },
+    "mse_final": 0.10475529093902929,
+    "accuracy_final": 0.8708888888888889,
+    "tiempo_entrenamiento": 181.92930579185486,
+    "timestamp": "2025-11-11T17:45:00.428204",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 86,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.729,
+      "precision": 0.6839622641509434,
+      "recall": 0.6791569086651054,
+      "f1_score": 0.681551116333725
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8708888888888889,
+      "precision": 0.8756090570364001,
+      "recall": 0.8075601374570447,
+      "f1_score": 0.8402090209020903
+    },
+    "mse_final": 0.10475529093902929,
+    "accuracy_final": 0.8708888888888889,
+    "tiempo_entrenamiento": 179.81093192100525,
+    "timestamp": "2025-11-11T17:48:00.676581",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 87,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.729,
+      "precision": 0.6839622641509434,
+      "recall": 0.6791569086651054,
+      "f1_score": 0.681551116333725
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8708888888888889,
+      "precision": 0.8756090570364001,
+      "recall": 0.8075601374570447,
+      "f1_score": 0.8402090209020903
+    },
+    "mse_final": 0.10475529093902929,
+    "accuracy_final": 0.8708888888888889,
+    "tiempo_entrenamiento": 180.64196491241455,
+    "timestamp": "2025-11-11T17:51:01.756919",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 88,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.1,
+      "initialization": "normal",
+      "pesado_terminos": "tf-idf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.729,
+      "precision": 0.6839622641509434,
+      "recall": 0.6791569086651054,
+      "f1_score": 0.681551116333725
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8708888888888889,
+      "precision": 0.8756090570364001,
+      "recall": 0.8075601374570447,
+      "f1_score": 0.8402090209020903
+    },
+    "mse_final": 0.10475529093902929,
+    "accuracy_final": 0.8708888888888889,
+    "tiempo_entrenamiento": 180.63218712806702,
+    "timestamp": "2025-11-11T17:54:02.829834",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 89,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "unigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.73,
+      "precision": 0.6957605985037406,
+      "recall": 0.6533957845433255,
+      "f1_score": 0.6739130434782609
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8218888888888889,
+      "precision": 0.8299031476997578,
+      "recall": 0.7248215701823949,
+      "f1_score": 0.7738112036122478
+    },
+    "mse_final": 0.1315642393035214,
+    "accuracy_final": 0.8218888888888889,
+    "tiempo_entrenamiento": 152.08259439468384,
+    "timestamp": "2025-11-11T17:56:35.354755",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  },
+  {
+    "id_configuracion": 90,
+    "idioma": "english",
+    "configuracion": {
+      "neuronas_ocultas": 64,
+      "epochs": 100,
+      "batch_size": 64,
+      "learning_rate": 0.1,
+      "initialization": "xavier",
+      "pesado_terminos": "tf",
+      "ngramas": "bigramas"
+    },
+    "metricas_prueba": {
+      "exactitud": 0.73,
+      "precision": 0.6957605985037406,
+      "recall": 0.6533957845433255,
+      "f1_score": 0.6739130434782609
+    },
+    "metricas_entrenamiento": {
+      "exactitud": 0.8218888888888889,
+      "precision": 0.8299031476997578,
+      "recall": 0.7248215701823949,
+      "f1_score": 0.7738112036122478
+    },
+    "mse_final": 0.1315642393035214,
+    "accuracy_final": 0.8218888888888889,
+    "tiempo_entrenamiento": 142.23716187477112,
+    "timestamp": "2025-11-11T17:58:58.032557",
+    "dimensiones_entrada": 23153,
+    "dimensiones_salida": 1
+  }
+]
